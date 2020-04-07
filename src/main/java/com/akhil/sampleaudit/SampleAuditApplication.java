@@ -1,0 +1,13 @@
+package com.akhil.sampleaudit;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SampleAuditApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SampleAuditApplication.class, args);
+	}
+
+}
